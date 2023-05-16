@@ -3,7 +3,7 @@
 
           
 
-## 📫 Contatos: <div>
+
 <a href="https://www.instagram.com/kaiuschy" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
 </a>
 <a href="https://www.linkedin.com/in/kaiuschyneves" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" style="max-width: 100%;">
@@ -11,7 +11,7 @@
 
           
           
-          
+ _____________________________________________________________________________________________________________________________________________________________________________________________________________________
  <div>
 <a href="https://github.com/seu-usuário-aqui">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiuschy&layout=compact&langs_count=7&theme=dracula"/>
