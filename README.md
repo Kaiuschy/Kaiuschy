@@ -2,11 +2,21 @@
 
 <img width="300px" align="right" src="https://lh3.googleusercontent.com/pw/AJFCJaX8a_F_mXAfgLoV4Rw9SxBjQDHwvaKC_7PRzB-j1N63ts7-WiXYhSZr5qGQhOWLHy-21iI2DOHhNbZccdwQVLeGJFgXDEduisJEogGRiZEEaOz66z14ylixQ9grOkAOj1ClZRnpgoZO27DeuR4gOu5gbdlV_J8mmmw0wzMVQtKpQHp-e0aStF5CLbpS7RjyVzDDFeuSjQrnjy0zfBi01Vul_3HYgulg38UInw2Txr-c1DRKaj8x9D4MDGyzwn1G6P2klwbNm8dWJAXGeYBE36n3uEHvq2BgOQe3ChjtaZeG7ryotNxy99OK-Vqj_MwtQYdXAOiONByPmf9UwGDE5hkvntoTZ9CAgbkw7UmAVQyk5qJp6drYkY-SvAZ2_3IhJcX3F20DV7svgsPEMFAiG3AeS9xLdFEZduO-i_f1FoCFQi3wwbY2njN_adhxDtaHpgbk_x8uCHpGr3U4gWHQdLPUXXbXrz6FXcsm2U45zCAP5sxiKTwVVSGFiCO1CGbKxpSX2qbauCS1QuEjuriPYLrwhwBAD8R0UtVmTNzvUXIrxXdJLJVcQ5efoVJxqEKB53IJIuREkzlhTHpcr7MW66mpGJEx18mK70EpjKqCa9f50FpWnLMQZaW6Z9CyJUso48CPTUntzvJ62eUusKImwyoTxCery0FwfqlgD4wGPJFqkmx8zYiwO6jKnUD3F9j48ISw2LO6WDoR4a-wwMWPyTxFcMP2Mgah3tQV9khD1MrMpZwgoS35EUa50Bc8MiArkM7k6aAKuwar7NZ8NEjh81e-XMbrgVCtXR3iS6UQwBN0azfo8SshzbhyUMErGFLbt-EBq-4KJM0poMofRhKQGnURe6lx7ThA6wHh3SHna_GqPu4ZconIIA8wKwQuLPZqCDYzlimDPoWbsYIgggF-DWY=w669-h1004-s-no?authuser=0" data-canonical-src="https://photos.app.goo.gl/n5xr1sndcAEDSpqT8.png" style="max-width: 100%;">
 
-## Olá, me chamo Kaiuschy !  Bem vindo ao meu perfil GitHub 👋  
-
+## Olá, bem vindo ao meu perfil GitHub 👋  
+<br>
+<br>
+🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a><br>
+📚 Sou graduando em Engenharia de Software<br>
+:computer: Tenho estudado sobre Técnicas e Estratégias de Teste, <br>
+Automação de testes mobile com Appium e linguagens como <br>
+Java e JavaScript
+<br>
+<br>
+<br>
+<br>
 ## Linguagens e Ferramentas:  
 
-<span style="display: inline-block;">
+##<span style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="max-width: 100%;">
 </span>
 <span style="display: inline-block;">
@@ -23,15 +33,7 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a><br>
-📚 Sou graduando em Engenharia de Software<br>
-:computer: Tenho estudado sobre Técnicas e Estratégias de Teste, <br>
-Automação de testes mobile com Appium e linguagens como <br>
-Java e JavaScript
-<br>
-<br>
+
 
 <a href="https://www.instagram.com/kaiuschy" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
 </a>
