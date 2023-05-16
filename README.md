@@ -4,7 +4,6 @@
 
 ## Olá, bem vindo ao meu perfil GitHub 👋  
 <br>
-<br>
 🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a><br>
 📚 Sou graduando em Engenharia de Software<br>
 :computer: Tenho estudado sobre Técnicas e Estratégias de Teste, <br>
@@ -14,7 +13,7 @@ Java e JavaScript
 <br>
 <br>
 <br>
-## Linguagens e Ferramentas:  
+##Linguagens e Ferramentas<br>
 
 ##<span style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="max-width: 100%;">
