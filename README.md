@@ -1,6 +1,7 @@
 # Olá, me chamo Kaiuschy !  
 ## Bem vindo ao meu perfil GitHub 👋
 
+🔭 Trabalho atualmente no time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a>
           
 
 
