@@ -1,8 +1,6 @@
 # Olá, me chamo Kaiuschy ! 
 ## Bem vindo ao meu perfil GitHub 👋
-🔭 Atualmente estou trabalhando em
 
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
 
 ## 📫 Contatos: <div>
@@ -11,7 +9,9 @@
 <a href="https://www.linkedin.com/in/kaiuschyneves" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
-<a href="https://iconscout.com/icons/kaiuschy" target="_blank">Free Instagram Icon</a> by <a href="https://iconscout.com/contributors/maninderkaur">maninderkaur</a> on <a href="https://iconscout.com">IconScout</a>
+<a href="https://iconscout.com/icons/kaiuschy"
+<a href="https://iconscout.com/contributors/kaiuschy"</a> 
+<a href="https://iconscout.com"</a>
 
 <div>
 <a href="https://github.com/Kaiuschy">
