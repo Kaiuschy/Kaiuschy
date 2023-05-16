@@ -5,12 +5,6 @@
 ## Olá, me chamo Kaiuschy !  
 ## Bem vindo ao meu perfil GitHub 👋  
 
-🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a><br>
-📚 Sou graduando em Engenharia de Software<br>
-
-
-
-
 ## Linguagens e Ferramentas:  
 
 <span style="display: inline-block;">
@@ -32,8 +26,8 @@
 <br>
 <br>
 <br>
-<br>
-<br>
+🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a><br>
+📚 Sou graduando em Engenharia de Software<br>
 
 
 <a href="https://www.instagram.com/kaiuschy" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
