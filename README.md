@@ -25,7 +25,15 @@
 <span style="display: inline-block;">
   <img width="40px" src="https://camo.githubusercontent.com/2582ec2237a3a1fbd34e9b57332b72be27a7facb32abe7c2335e5f86e5f457a8/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6d7973716c2f6d7973716c2d6f726967696e616c2e737667" title="MYSQL" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="max-width: 100%;">
 </span>
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 <a href="https://www.instagram.com/kaiuschy" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
@@ -33,11 +41,16 @@
 <a href="https://www.linkedin.com/in/kaiuschyneves" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" style="max-width: 100%;">
 </a><br>
 
-          
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
           
 
  <div>
-<a href="https://github.com/seu-usuário-aqui">
+<a href="https://github.com/kaiuschy">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiuschy&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiuschy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
