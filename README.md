@@ -7,15 +7,16 @@
 🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a><br>
 📚 Sou graduando em Engenharia de Software<br>
 :computer: Tenho estudado sobre Técnicas e Estratégias de Teste, <br>
-Automação de testes mobile com Appium e linguagens como <br>
+Automação de testes mobile com Appium e linguagens <br>como 
 Java e JavaScript
 <br>
 <br>
 <br>
 <br>
-##Linguagens e Ferramentas<br>
+_____________________________________________________________________________________________________<br>
+## Linguagens e Ferramentas<br>
 
-##<span style="display: inline-block;">
+<span style="display: inline-block;">
   <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40" style="max-width: 100%;">
 </span>
 <span style="display: inline-block;">
