@@ -23,7 +23,7 @@
 </br>
 <div display="inline-block">
  <p align="left">🔭 Faço parte do time de QA na <a href="https://www.auvo.com/" rel="nofollow">Auvo</a>;</p>
- <p align="left">📚 Sou graduando em Engenharia de Software;</p>
+ <p align="left">📚 Análise e Desenvolvimento de Sistemas;</p>
  <p align="left">:computer: Tenho estudado sobre Técnicas e Estratégias de Teste, Automação de testes mobile com Appium e linguagens Java e JavaScript;
 </div>
 
