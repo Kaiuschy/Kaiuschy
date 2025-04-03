@@ -18,8 +18,11 @@ Sou um **QA Engineer** apaixonado por **qualidade de software**, **automação d
 **Metodologias Ágeis:**  
 ![SCRUM](https://img.shields.io/badge/SCRUM-FFA500?style=flat&logo=scrum&logoColor=white)  
 
+
 **Projetos:**
-[![Figma](https://img.shields.io/badge/Protótipo%20do%20meu%20curr%C3%ADculo-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/proto/jGHowPYpn1n98xzjYv6uIC/KaiuschyNeves?node-id=67-768&t=gKhMZ72sSJ4bT44J-0&scaling=scale-down&content-scaling=fixed&page-id=23%3A427&starting-point-node-id=75%3A880)  
+
+[![Figma](https://img.shields.io/badge/Protótipo%20do%20meu%20curr%C3%ADculo-F24E1E?style=flat&logo=figma&logoColor=white)](https://www.figma.com/proto/jGHowPYpn1n98xzjYv6uIC/KaiuschyNeves?node-id=67-768&t=gKhMZ72sSJ4bT44J-0&scaling=scale-down&content-scaling=fixed&page-id=23%3A427&starting-point-node-id=75%3A880) [![GitHub](https://img.shields.io/badge/Documento%20do%20Curr%C3%ADculo-181717?style=flat&logo=github&logoColor=white)](https://github.com/Kaiuschy/Website/)
+
 
 ---
 
