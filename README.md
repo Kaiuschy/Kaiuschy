@@ -1,41 +1,25 @@
+## Olá, seja bem-vindo ao meu GitHub! 👋  
 
+💡 Sou um **QA Engineer** apaixonado por qualidade de software, automação de testes e boas práticas de desenvolvimento. Aqui, você encontrará projetos que refletem minhas habilidades em **testes manuais, automação e análise de qualidade**.  
 
+---
 
-## Olá, bem vindo ao meu perfil GitHub 👋  
+### 🛠️ Tecnologias e ferramentas que uso no dia a dia  
 
+**Linguagens:**  
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)  
 
-### 🖥️ Linguagens e Ferramentas: 
-<code><img width="40px" src="https://s3.dualstack.us-east-2.amazonaws.com/pythondotorg-assets/media/files/python-logo-only.svg" title = "PYTHON"/></code>
-</span></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
-</span></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title = "JAVA"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title = "MYSQL"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" title = "AZURE"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title = "GIT"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title = "VISUALSTUDIO"/></code>
-<code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title = "VSCODE"/></code>
-<code><img width="40px" src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" title = "SELENIUM"/></code>
-<code><img width="40px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" title = "POSTMAN"/></code>
+**Frameworks e Ferramentas de Teste:**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)  ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=flat&logo=cypress&logoColor=white)  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)  ![JIRA](https://img.shields.io/badge/JIRA-0052CC?style=flat&logo=jira&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoftazure&logoColor=white)  
 
-</br>
-</br>
-<div display="inline-block">
- <p align="left">📚 Análise e Desenvolvimento de Sistemas;</p>
- <p align="left">:computer: Tenho estudado sobre Técnicas e Estratégias de Teste, Automação de testes Web e linguagens Java e JavaScript;
-</div>
+**Outras Ferramentas:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)  ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)  
 
+**Metodologias Ágeis:**  
+![SCRUM](https://img.shields.io/badge/SCRUM-FFA500?style=flat&logo=scrum&logoColor=white)  
 
+---
 
-</br>
-
-📫 Você pode falar comigo pelo [Instagram](https://www.instagram.com/kaiuschy) ou pelo [Linkedin](https://www.linkedin.com/in/kaiuschyneves). =)
-
-</br>
-
-<a href="https://www.instagram.com/kaiuschy" rel="nofollow"><img align="left" alt="Instagram" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/insta.svg" style="max-width: 100%;">
-</a>
-<a href="https://www.linkedin.com/in/kaiuschyneves" rel="nofollow"><img align="left" alt="LinkedIn" width="22px" src="https://github.com/Aakarsh-B/trying-repos/raw/master/linkedin.svg" style="max-width: 100%;">
-
+### 📫 Entre em contato comigo  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiuschyneves)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaiuschy)
 
