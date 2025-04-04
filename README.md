@@ -1,6 +1,10 @@
 ## Olá, seja bem-vindo ao meu GitHub! 👋  
 
-Sou um **QA Engineer** apaixonado por **qualidade de software**, **automação de testes** e **boas práticas de desenvolvimento.** Tenho uma forte ênfase em **testes funcionais**, buscando sempre garantir a integridade e a eficiência dos sistemas. Aqui, você encontrará projetos que refletem minhas habilidades em **testes manuais, automação, análise de qualidade e testes funcionais.**  
+
+
+
+
+Sou um **QA** apaixonado por **qualidade de software**, **automação de testes** e **boas práticas de desenvolvimento.** Tenho uma forte ênfase em **testes funcionais**, buscando sempre garantir a integridade e a eficiência dos sistemas. Aqui, você encontrará projetos que refletem minhas habilidades em **testes manuais, automação, análise de qualidade e testes funcionais.**  
 
 ---
 
@@ -26,6 +30,16 @@ Sou um **QA Engineer** apaixonado por **qualidade de software**, **automação d
 
 ---
 
-### 📫 Entre em contato comigo  
+#### 📫 Entre em contato comigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kaiuschyneves)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/kaiuschy)
+
+---
+
+#### 📖 Disponível em outros idiomas:  
+[![Français](https://cdn-icons-png.flaticon.com/24/197/197560.png)](https://github.com/Kaiuschy/KaiuschyFR/) [![English](https://cdn-icons-png.flaticon.com/24/197/197374.png)](https://github.com/Kaiuschy/KaiuschyEN) [![Português](https://cdn-icons-png.flaticon.com/24/197/197386.png)](https://github.com/Kaiuschy/KaiuschyPT)  
+
+
+
+
+
 
